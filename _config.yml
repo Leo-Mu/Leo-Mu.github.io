@@ -80,4 +80,3 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:Leo-Mu/Leo-Mu.github.io.git
-  branch: master
