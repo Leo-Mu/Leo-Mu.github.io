@@ -1,6 +1,7 @@
 duoshuo_shortname: leomhx
 avatar: /load/img/head.jpg
 baidu_analytics: f4f8fdee10409114f6af6a4bdf631238
+google_analytics: UA-83289722-1
 sitemap:
     path: sitemap.xml
 # Hexo Configuration
