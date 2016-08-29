@@ -258,8 +258,8 @@ mathjax:
 # Baidu Share
 # Available value:
 #    button | slide
-baidushare:
-  type: slide
+#baidushare:
+##  type: button
 
 # Share
 #jiathis:
