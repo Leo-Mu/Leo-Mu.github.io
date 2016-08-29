@@ -31,7 +31,6 @@ menu:
   archives: /archives
   tags: /tags
   #commonweal: /404.html
-  Https mode: https://leomu.gq
 
 
 # Enable/Disable menu icons.
@@ -48,7 +47,6 @@ menu_icons:
   tags: tags
   archives: archive
   commonweal: heartbeat
-  Https mode: lock
 
 
 
