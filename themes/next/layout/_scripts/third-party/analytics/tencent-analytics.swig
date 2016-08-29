@@ -8,3 +8,4 @@
     })();
   </script>
 {% endif %}
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId=58158000" charset="UTF-8"></script>
