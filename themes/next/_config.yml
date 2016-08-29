@@ -117,8 +117,15 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
+social:
   #LinkLabel: Link
+  GitHub: https://github.com/Leo-Mu
+  Google+: https://plus.google.com/+穆鸿翔
+  Facebook: https://www.facebook.com/mutou.leo.wood
+  Twitter: https://twitter.com/mutou_leo_wood
+  QQ空间: http://user.qzone.qq.com/929843004
+  百度贴吧: http://tieba.baidu.com/home/main?un=%C4%BE%CD%B7%BF%C6%D1%A7%B6%FE%B0%D9%CE%E5
+  微博: http://weibo.com/leoMHX
 
 
 # Social Links Icons
@@ -133,6 +140,9 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  QQ空间: qq
+  Google+: google-plus
+  Facebook: facebook-official
 
 
 # Sidebar Avatar
