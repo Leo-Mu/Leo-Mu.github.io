@@ -39,7 +39,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render: BingSiteAuth.xml
+skip_render: [BingSiteAuth.xml, baidu_verify_8Xa2zQF3G0.html]
 
 # Writing
 new_post_name: :title.md # File name of new posts
