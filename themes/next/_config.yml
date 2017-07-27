@@ -44,7 +44,7 @@ menu:
   tags: /tags
   #sitemap: /sitemap.xml
   #commonweal: /404.html
-    https mode: https://leomu.gq
+  https mode: https://leomu.gq
 
 
 # Enable/Disable menu icons.
@@ -63,7 +63,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
-    https mode: lock
+  https mode: lock
 
 
 
