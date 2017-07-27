@@ -213,11 +213,15 @@ sidebar:
 
 
 # Blog rolls
-#links_title: Links
+links_title: Links
 #links_layout: block
 #links_layout: inline
-#links:
+links:
   #Title: http://example.com/
+  copper菌: https://www.copperion.com/
+  新创无际: https://infinideas.org/
+  山岚幽阳: http://www.snang.cc/
+  平衍之域: http://x-y.studio/
 
 
 # ---------------------------------------------------------------
