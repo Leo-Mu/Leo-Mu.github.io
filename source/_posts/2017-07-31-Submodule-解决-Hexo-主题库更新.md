@@ -1,7 +1,16 @@
 ---
 title: Submodule 解决 Hexo 主题库更新
 date: 2017-07-31 23:19:29
+categories:
+- IT
+- Develop
+- web
+- blog
+- hexo
+- theme
 tags:
+- 开发文档
+- 技术干货
 ---
 
 介绍一种方法，巧用 Git submodule 功能方便快捷地完成主题更新，针对一个安装了开源主题的 Hexo blog，并且自身源码需要用 Git 管理。

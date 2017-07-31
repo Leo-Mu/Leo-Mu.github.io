@@ -1,7 +1,15 @@
 ---
 title: Atom 文件比对： split-diff
 date: 2017-07-31 22:43:15
+categories:
+ - IT
+ - Develop
+ - editor
+ - Atom
+ - package
 tags:
+ - 开发文档
+ - 技术干货
 ---
 
 推荐一款 Atom 编辑器中的文件比较插件 [split-diff][8b3673f0]
