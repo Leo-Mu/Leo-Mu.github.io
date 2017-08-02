@@ -11,6 +11,7 @@ categories:
 tags:
 - 开发文档
 - 技术干货
+- 教程
 ---
 
 介绍一种方法，巧用 Git submodule 功能方便快捷地完成主题更新，针对一个安装了开源主题的 Hexo blog，并且自身源码需要用 Git 管理。
@@ -32,7 +33,7 @@ Hexo 更新到没什么，它本身是一个基于 NodeJS 的命令行工具，`
 [6c4b4b34]: https://hexo.io "Hexo"
 [67772811]: http://theme-next.iissnan.com/ "Next"
 
-##噩梦般的解决方案一
+## 噩梦般的解决方案一
 
 如果说你在上述第二种解决方案 Git 的难题上犯憷了，采用了第一种解决方案。那真是后患无穷啊！
 

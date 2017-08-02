@@ -10,6 +10,7 @@ categories:
 tags:
  - 开发文档
  - 技术干货
+ - 教程
 ---
 
 推荐一款 Atom 编辑器中的文件比较插件 [split-diff][8b3673f0]
