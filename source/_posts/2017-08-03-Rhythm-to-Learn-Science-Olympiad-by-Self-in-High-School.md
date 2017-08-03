@@ -150,4 +150,4 @@ RT，独立自主的学习其实很考验人的自信，因为从众心里，人
 
 ## PPT
 
-<iframe src='https://onedrive.live.com/embed?cid=BFA18671011A08E0&resid=BFA18671011A08E0%21106238&authkey=ABIsuRJ7TTULDHE&em=2&wdAr=1.7777777777777777' width='1186px' height='691px' frameborder='0'>这是嵌入 <a target='_blank' href='https://office.com'>Microsoft Office</a> 演示文稿，由 <a target='_blank' href='https://office.com/webapps'>Office Online</a> 支持。</iframe>
+<iframe src='https://onedrive.live.com/embed?cid=BFA18671011A08E0&resid=BFA18671011A08E0%21106238&authkey=ABIsuRJ7TTULDHE&em=2&wdAr=1.7777777777777777' width='350px' height='221px' frameborder='0'>这是嵌入 <a target='_blank' href='https://office.com'>Microsoft Office</a> 演示文稿，由 <a target='_blank' href='https://office.com/webapps'>Office Online</a> 支持。</iframe>
