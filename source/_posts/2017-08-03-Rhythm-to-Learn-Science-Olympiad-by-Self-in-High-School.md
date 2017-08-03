@@ -149,3 +149,5 @@ RT，独立自主的学习其实很考验人的自信，因为从众心里，人
 好了，接下来同学们关于学习生活有什么想问的？或者关于理科和信息技术的各种问题我都会尽我所能给大家回答。
 
 ## PPT
+
+<iframe src='https://onedrive.live.com/embed?cid=BFA18671011A08E0&resid=BFA18671011A08E0%21106238&authkey=ABIsuRJ7TTULDHE&em=2&wdAr=1.7777777777777777' width='1186px' height='691px' frameborder='0'>这是嵌入 <a target='_blank' href='https://office.com'>Microsoft Office</a> 演示文稿，由 <a target='_blank' href='https://office.com/webapps'>Office Online</a> 支持。</iframe>
