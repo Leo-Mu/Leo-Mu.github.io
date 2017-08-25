@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/quantum_bug
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://leomu.gq
+  * I am quantum_bug (https://keybase.io/quantum_bug) on keybase.
+  * I have a public key ASBCDatpL9-zJrRYRzXXUbyitb-XuxPmKHTTl0PHJORQ6go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120420dab692fdfb326b4584735d751bca2b5bf97bb13e62874d39743c724e450ea0a",
+      "host": "keybase.io",
+      "kid": "0120420dab692fdfb326b4584735d751bca2b5bf97bb13e62874d39743c724e450ea0a",
+      "uid": "f1f71cfdd82780cd93f3e73300d02719",
+      "username": "quantum_bug"
+    },
+    "merkle_root": {
+      "ctime": 1502081676,
+      "hash": "77203d62aa18c4019a5df479a6342d11068144d0cdea6f94ebea965b02a338e2cddea981fac6fa1c2e7f72f7a95f3a8013623db2254f12b2338b422413d82c0e",
+      "hash_meta": "79ad8a48a8cc89260fc8a7af3ab5feac004e5222ad7548dd5012a7e5b3ee0965",
+      "seqno": 1309421
+    },
+    "service": {
+      "hostname": "leomu.gq",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.26"
+  },
+  "ctime": 1502081930,
+  "expire_in": 504576000,
+  "prev": "001e8bebe9243997c6abac6c843cad0f395ca3e2bbe3477eaff7cbc43b661391",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQg2raS/fsya0WEc111G8orW/l7sT5ih005dDxyTkUOoKp3BheWxvYWTFA0N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDIwZGFiNjkyZmRmYjMyNmI0NTg0NzM1ZDc1MWJjYTJiNWJmOTdiYjEzZTYyODc0ZDM5NzQzYzcyNGU0NTBlYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDIwZGFiNjkyZmRmYjMyNmI0NTg0NzM1ZDc1MWJjYTJiNWJmOTdiYjEzZTYyODc0ZDM5NzQzYzcyNGU0NTBlYTBhIiwidWlkIjoiZjFmNzFjZmRkODI3ODBjZDkzZjNlNzMzMDBkMDI3MTkiLCJ1c2VybmFtZSI6InF1YW50dW1fYnVnIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTAyMDgxNjc2LCJoYXNoIjoiNzcyMDNkNjJhYTE4YzQwMTlhNWRmNDc5YTYzNDJkMTEwNjgxNDRkMGNkZWE2Zjk0ZWJlYTk2NWIwMmEzMzhlMmNkZGVhOTgxZmFjNmZhMWMyZTdmNzJmN2E5NWYzYTgwMTM2MjNkYjIyNTRmMTJiMjMzOGI0MjI0MTNkODJjMGUiLCJoYXNoX21ldGEiOiI3OWFkOGE0OGE4Y2M4OTI2MGZjOGE3YWYzYWI1ZmVhYzAwNGU1MjIyYWQ3NTQ4ZGQ1MDEyYTdlNWIzZWUwOTY1Iiwic2Vxbm8iOjEzMDk0MjF9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibGVvbXUuZ3EiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNiJ9LCJjdGltZSI6MTUwMjA4MTkzMCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIwMDFlOGJlYmU5MjQzOTk3YzZhYmFjNmM4NDNjYWQwZjM5NWNhM2UyYmJlMzQ3N2VhZmY3Y2JjNDNiNjYxMzkxIiwic2Vxbm8iOjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA8m6Rh/tZvg2ZdYS1Joa3Pdey/gLoKKqL3ABssbN6tF7WL7D4o9TldRX+sgbcWy652i7xA8QOBOxjlnfIQ+vJDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEII6lVeBYrRBg+wcC/yliZxCfKbONA3cw+tH55KLWw/l6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/quantum_bug
+
+==================================================================
