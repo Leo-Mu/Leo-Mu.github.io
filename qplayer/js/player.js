@@ -397,4 +397,4 @@ function removeTips() {
 	$('.tips_arrow').css({"border-width":"0","transition":"all .5s ease-in-out"});
 	$('.tips_button').css({"opacity":"0","transition":"all .2s ease-in-out"});
 	setTimeout(function(){$('.qplayer_tips').remove()}, 500);
-}</div></audio>
+}
