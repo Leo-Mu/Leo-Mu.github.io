@@ -4,3 +4,6 @@
 [submodule "source/qplayer"]
 	path = source/qplayer
 	url = https://github.com/Leo-Mu/QPlayer.git
+[submodule "source/baidushare"]
+	path = source/baidushare
+	url = https://github.com/Leo-Mu/baiduShare.git
