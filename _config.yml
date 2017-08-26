@@ -40,7 +40,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render: [BingSiteAuth.xml, baidu_verify_8Xa2zQF3G0.html]
+skip_render: [BingSiteAuth.xml, baidu_verify_8Xa2zQF3G0.html, qplayer/**]
 
 # Writing
 new_post_name: :year-:month-:day-:title.md # File name of new posts
