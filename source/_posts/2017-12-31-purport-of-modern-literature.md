@@ -13,7 +13,6 @@ tags:
 > -------------© 版权信息------------
 > [本文首发于 Steemit](https://steemit.com/cn/@quantum-bug/purport-of-modern-literature) ，在 Steemit 上的版本保留所有权利。
 > 欲转载等，请使用 https://qbug.cf/2017/12/31/purport-of-modern-literature/ 上的版本，遵守那里的版权标识。
-> --------本文不构成投资建议---------
 
 现代文阅读第一个麻烦事：读不懂文章！出题人很聪明，知道你会背诵套话，所以要你必须把“表达了”后面的东西写出来！
 
