@@ -29,6 +29,7 @@ tags:
       - programming
   - 付费
     - 区块链
+      - Smart Contract Programming - Ivan on Tech Academy
     - 得到
     - programming
 - 实践
@@ -95,4 +96,28 @@ tags:
 
 ## 书单
 
+中文名称买中文版，英文名称买英文版。
+
+- 得到系
+  - 通往财富自由之路
+  - 薛兆丰的经济学讲义
+  - 大国宪制
+- Physics
+  - The Theoretical Minimum
+  - The Feynman Lectures on Physics
+- Programming
+  - Eloquent JavaScript: A Modern Introduction to Programming
+  - HTDP - How to Design Programs
+  - SICP - Structure and Interpretation of Computer Programs
+  - ANSI Common Lisp
+    - On Lisp
+- Cognitive
+  - Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences
+  - The Mathematical Theory of Communication
+  - The Signal and the Noise
+- Others
+  - Fire and Fury: Inside the Trump White House
+
 ## 日程
+
+## 前期准备
