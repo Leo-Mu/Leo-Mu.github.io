@@ -102,6 +102,9 @@ tags:
   - 通往财富自由之路
   - 薛兆丰的经济学讲义
   - 大国宪制
+  - 专栏
+    - 傅佩荣的西方哲学课
+    - 武志红的心理学课
 - Physics
   - The Theoretical Minimum
   - The Feynman Lectures on Physics
@@ -112,11 +115,37 @@ tags:
   - ANSI Common Lisp
     - On Lisp
 - Cognitive
+  -
   - Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences
   - The Mathematical Theory of Communication
   - The Signal and the Noise
 - Others
   - Fire and Fury: Inside the Trump White House
+
+## 课程
+
+**黑体的重要而简洁，得好好听。**
+MOOC 大全，挑着听，不一定听完，不必掏钱认证证书。学到就是赚到。
+
+- Ivan on Tech
+  - **Smart Contract Programming**
+- Google
+  - **machine learning**
+    - https://developers.google.com/machine-learning/crash-course/
+- coursera
+  - algorithms
+    - https://www.coursera.org/learn/algorithms-part1/home/welcome
+    - https://www.coursera.org/learn/algorithms-part2/home/welcome
+    - https://www.coursera.org/specializations/algorithms
+  - AI
+    - https://www.coursera.org/specializations/deep-learning
+    - https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
+  - Cryptocurrency Technologies
+    - https://www.coursera.org/learn/cryptocurrency/home/welcome
+  - Web
+    - https://www.coursera.org/specializations/ruby-on-rails
+    - https://www.coursera.org/specializations/full-stack-mobile-app-development
+    - https://www.coursera.org/specializations/website-development
 
 ## 日程
 
