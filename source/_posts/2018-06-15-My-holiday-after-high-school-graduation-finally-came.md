@@ -93,6 +93,7 @@ tags:
   - 学开车
   - 学做菜
   - 践行精要主义，改变过去走哪都像搬家的习惯！
+- 叠加与以上各项重点活动的社群、社交活动也很重要！
 
 ## 书单
 
@@ -114,11 +115,12 @@ tags:
   - SICP - Structure and Interpretation of Computer Programs
   - ANSI Common Lisp
     - On Lisp
-- Cognitive
-  -
+- Insight
+  - Sophie's World
   - Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences
   - The Mathematical Theory of Communication
   - The Signal and the Noise
+  - 荣格文集：得到上买了
 - Others
   - Fire and Fury: Inside the Trump White House
 
@@ -146,6 +148,9 @@ MOOC 大全，挑着听，不一定听完，不必掏钱认证证书。学到就
     - https://www.coursera.org/specializations/ruby-on-rails
     - https://www.coursera.org/specializations/full-stack-mobile-app-development
     - https://www.coursera.org/specializations/website-development
+  - Others
+    - https://www.coursera.org/learn/principles-of-microeconomics
+    - https://www.coursera.org/learn/microeconomics
 
 ## 日程
 
@@ -179,3 +184,6 @@ MOOC 大全，挑着听，不一定听完，不必掏钱认证证书。学到就
 - [ ] 新媒体
   - [ ] 注册微信公众号和视频网站的频道
   - [ ] 写开篇
+- [ ] 更新
+  - [ ] 翻墙工具链
+  - [ ] blog 架构和 theme 版本
